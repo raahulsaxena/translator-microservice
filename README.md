@@ -2,6 +2,9 @@
 
 A lightweight and scalable microservice that automatically translates text into English from multiple supported languages using pre-trained NLP models.
 
+## Architecture
+![Architecture Diagram](docs/architecture.png)
+
 ## Features
 - Detects input text language automatically (using langdetect).
 - Translates to English using Hugging Face models (Helsinki-NLP/opus-mt-XX-en).
