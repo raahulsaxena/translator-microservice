@@ -1,0 +1,7 @@
+Flask
+langdetect
+transformers
+torch
+gunicorn
+redis
+sentencepiece
